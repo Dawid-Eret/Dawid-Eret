@@ -6,24 +6,22 @@ I created this github as a way of tracking my learning progress, as well as a di
 
 Currently 'enforcing' my knowledge with Core Python.
 
-================================================
 My current list of things to learn / go over:
-Core Python
-Python Pandas
-Python Seaborn
-Python Django
-Python Flask
-Python Scikit-Learn
-Python Pytorch
-Git
-SQL
-HTML
-CSS
-Java Script
-Agile
-Cloud Working (AWS, Azure, GCP)
-Linux Command Line
-Windows Command Line
-================================================
+Core Python,
+Python Pandas,
+Python Seaborn,
+Python Django,
+Python Flask,
+Python Scikit-Learn,
+Python Pytorch,
+Git,
+SQL,
+HTML,
+CSS,
+Java Script,
+Agile,
+Cloud Working (AWS, Azure, GCP),
+Linux Command Line,
+Windows Command Line.
 
 To contact me please message: dawidaeret@gmail.com
