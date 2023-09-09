@@ -1,7 +1,7 @@
 I'm @Dawid-Eret, soon to be a First-Year student at the University of Nottingham,
 enrolling the Computer Software with Artificial Intelligence course!
 
-I'm a self-taught python programmer, and I'm aiming to become an AI Engineer / AI Programmer.
+I'm a self-taught python programmer, and I'm aiming to become an AI Engineer.
 I created this github as a way of tracking my learning progress, as well as a digital portfolio.
 
 Currently 'enforcing' my knowledge with Core Python.
