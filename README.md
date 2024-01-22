@@ -1,4 +1,7 @@
 I'm an Undergraduate MSci Student.
 
-Our current learning material includes:
-C, Arm Assembly, HDL, and Python.
+Languages (and similar) already covered:
+C, Arm Assembly, HDL
+
+Languages (and similar) to be covered:
+Java, SQL, HTML, CSS, Javascript, PHP, Python, Haskell
